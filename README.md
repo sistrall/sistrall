@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://www.sistrall.it/_astro/photograph.UCn8o19d_ZsHya0.webp)
+
 <!--
 **sistrall/sistrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
