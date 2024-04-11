@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://www.sistrall.it/_astro/photograph.UCn8o19d_ZsHya0.webp)
+![](https://www.datocms-assets.com/70735/1711008285-al-cuor-non-si-comanda.jpeg?fm=jpg&h=2048&w=2048)
 
 <!--
 **sistrall/sistrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
